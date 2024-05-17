@@ -1,0 +1,9 @@
+Travail realiser le vendredi 17 mai par le groupe 2 :
+Installation Wsl
+Installation des dépendances
+Installation des pré requis ( Linux)
+Git cURL et Docker
+Installation Fabric et Fabric samples
+Creation des canaux
+Clonage maidsafe
+
